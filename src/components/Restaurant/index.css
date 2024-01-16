@@ -1,0 +1,25 @@
+div {
+  font-family: 'Roboto';
+}
+.div2 {
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.ul1 {
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  padding-left: 0;
+}
+.li1 {
+  list-style-type: none;
+}
+.typeStyle {
+  color: red;
+  font-weight: bold;
+}
+.ul2 {
+  padding-left: 0;
+}

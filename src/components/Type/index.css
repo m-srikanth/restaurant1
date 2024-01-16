@@ -1,0 +1,7 @@
+hr {
+  border: 2px solid red;
+}
+.btn2 {
+  border-width: 0;
+  background-color: transparent;
+}
